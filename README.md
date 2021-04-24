@@ -1,0 +1,7 @@
+- Hi, I’m @aumoza
+- I’m interested in Programming and Robotics.
+- I’m currently learning C++ and ROS(Robot Operating System)
+- I’m looking to collaborate on a project in ROS.
+- My next project is creating a single wheel self balancing robot, so as to get the basics of ROS very clear.
+- LinkedIn profile : https://www.linkedin.com/in/aum-oza-14a30a1b2
+- I am studying Mechatronics Bachelors currently(2nd Semester)
